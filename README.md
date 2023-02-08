@@ -12,4 +12,4 @@
     * Удалить часть файлов
     * Восстановиться со снапшота
 
-> Примечани: все действия записаны в [lvm_homework.log](https://github.com/shulgazavr/lvm/edit/main/lvm_homework.log)
+> Примечание: все действия записаны в [lvm_homework.log](https://github.com/shulgazavr/lvm/edit/main/lvm_homework.log)
